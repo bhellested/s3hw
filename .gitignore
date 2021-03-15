@@ -1,0 +1,6 @@
+
+.aws/credentials
+.vs/s3hw/v16/.suo
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+venv/*
